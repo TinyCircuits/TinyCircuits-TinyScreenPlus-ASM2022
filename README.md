@@ -1,7 +1,7 @@
 # TinyCircuits TinyScreen+ Processor Board
-# ASM2022 Rev3
+# ASM2022 Rev4
 
-These are the design files for the TinyCircuits ASM2022 Rev 3 PCB.  This is a Tiny processor board that use an Ateml SAMD21 microcontroller and OLED has stackable TinyShield support.  
+These are the design files for the TinyCircuits ASM2022 Rev 4 PCB.  This is a Tiny processor board that use an Ateml SAMD21 microcontroller and OLED has stackable TinyShield support.  
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
