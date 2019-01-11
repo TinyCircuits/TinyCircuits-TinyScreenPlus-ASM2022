@@ -1,11 +1,17 @@
-/**********************************************************************
- * This is the example sketch used to display .TSV files on a
- * TinyScreen+. The audio handling included will only run on the
- * TinyArcade.
- * 
- * Written by Ben Rose for TinyCircuits. http://tinycircuits.com
- * Last updated 08 June 2017
- **********************************************************************/
+/*
+  TinyScreen/TinyScreen+ Basic Example
+
+  This is the example sketch used to display .TSV files on a
+  TinyScreen+. The audio handling included will only run on the
+  TinyArcade.
+
+  Written 08 June 2017
+  By Ben Rose
+  Modified 07 January 2019
+  By Hunter Hykes
+
+  https://TinyCircuits.com
+*/
 
 #include <TinyScreen.h>
 #include <SPI.h>
